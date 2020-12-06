@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<models>
+  <model name="Katya">
+    <weight>48</weight>
+    <height>180</height>
+  </model>
+  <model name="Masha">
+    <weight>50</weight>
+    <height>185</height>
+  </model>
+</models>
